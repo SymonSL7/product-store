@@ -19,4 +19,10 @@ export class CardComponent {
 
   productTitle = computed(() => this.product().title);
 
+  onEdit () {
+
+    this.edit.emit();
+
+  }
+
 }
