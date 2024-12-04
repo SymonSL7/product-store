@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "title": "Beck's",
-      "id": "1"
-    },
-    {
-      "title": "Corona Long Neck",
-      "id": "cf73"
-    },
-    {
       "title": "Heineken Long Neck",
       "id": "1453"
     },
@@ -23,14 +15,6 @@
     {
       "id": "26a2",
       "title": "Heineken Latinha"
-    },
-    {
-      "title": "Brahma Latão",
-      "id": "3801"
-    },
-    {
-      "id": "9eec",
-      "title": "Licor 43"
     }
   ]
 }
