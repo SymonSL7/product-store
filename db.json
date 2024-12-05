@@ -1,32 +1,3 @@
 {
-  "products": [
-    {
-      "title": "Heineken Long Neck",
-      "id": "1453"
-    },
-    {
-      "id": "0b41",
-      "title": "Heineken 600ML"
-    },
-    {
-      "id": "4fcb",
-      "title": "Heineken Latão"
-    },
-    {
-      "id": "26a2",
-      "title": "Heineken Latinha"
-    },
-    {
-      "id": "48e7",
-      "title": "Beck's Long Neck"
-    },
-    {
-      "id": "d906",
-      "title": "Corona Long Neck"
-    },
-    {
-      "id": "a4a7",
-      "title": "Beck's 600ML"
-    }
-  ]
+  "products": []
 }
